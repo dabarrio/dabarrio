@@ -48,13 +48,13 @@ Para mi la comunicación y el trabajo en equipo es esencial para poder crecer co
  
 <p align='center'>
 <a href="https://freelancer-db.netlify.app/">
- <img width="20%" src="./images/FREELANCE.jpg"/>
+ <img width="30%" src="./images/FREELANCE.jpg"/>
  </a>
  <a href="https://blogcafe-db.netlify.app/">
- <img width="20%" src="./images/CAFE.jpg"/>
+ <img width="30%" src="./images/CAFE.jpg"/>
  </a>
  <a href="https://frontedstore-db.netlify.app/">
- <img width="20%" src="../dabarrio/images/STORE.jpg"/>
+ <img width="30%" src="./images/STORE.jpg"/>
  </a>
  </p>
 
@@ -62,13 +62,13 @@ Para mi la comunicación y el trabajo en equipo es esencial para poder crecer co
 
 <p align='center'>
 <a href="https://dabarrio-todo-app.netlify.app/">
- <img width="20%" src="../dabarrio/images/todoApp.jpg"/>
+ <img width="30%" src="./images/todoApp.jpg"/>
  </a>
 <a href="https://dabarrio-pi-dogs.vercel.app/">
- <img width="20%" src="../dabarrio/images/dabarrio-PI.jpg"/>
+ <img width="30%" src="./images/dabarrio-PI.jpg"/>
  </a>
 <a href="https://pg-rgb-store-three.vercel.app/">
- <img width="20%" src="../dabarrio/images/PF.jpg"/>
+ <img width="30%" src="./images/PF.jpg"/>
  </a>
 </p>
 
