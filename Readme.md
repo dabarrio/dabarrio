@@ -48,10 +48,10 @@ Para mi la comunicación y el trabajo en equipo es esencial para poder crecer co
  
 <p align='center'>
 <a href="https://freelancer-db.netlify.app/">
- <img width="20%" src="../images/FREELANCE.jpg"/>
+ <img width="20%" src="./images/FREELANCE.jpg"/>
  </a>
  <a href="https://blogcafe-db.netlify.app/">
- <img width="20%" src="../dabarrio/images/CAFE.jpg"/>
+ <img width="20%" src="./images/CAFE.jpg"/>
  </a>
  <a href="https://frontedstore-db.netlify.app/">
  <img width="20%" src="../dabarrio/images/STORE.jpg"/>
