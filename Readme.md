@@ -9,7 +9,7 @@ Para mi la comunicación y el trabajo en equipo es esencial para poder crecer co
 </h3>
 <br>
 <br>
-
+<h4>Estoy un poco inactivo por acá, pero vas a poder ver toda mi actividad por aquí <a href="https://gitlab.com/dabarrio">GitLab</a></h4>
 <h1 align="center">Mis skills</h1>
 <p align="center">
 <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt='David Barrios' />
